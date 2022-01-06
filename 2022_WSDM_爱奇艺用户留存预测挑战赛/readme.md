@@ -19,6 +19,6 @@
 
 |编号|预处理手段|线下分数|线上分数|代码版本|数据版本|
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|1|使用choose_end_date_v0, 用launch_type_seq替代lauch_seq, 结果0.5截断|-|85.92284324|feature_engineering_2022_0105_v1、runner_2022_0105_v1、tools|mysub_20220105_2309_seed20220104|
+|1|使用choose_end_date_v0, 仅用launch_type_seq替代lauch_seq, 结果0.5截断|-|85.92284324|feature_engineering_2022_0105_v1、runner_2022_0105_v1、tools|mysub_20220105_2309_seed20220104|
 
 ### 三. Models
